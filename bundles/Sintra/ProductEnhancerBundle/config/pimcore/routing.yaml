@@ -1,0 +1,5 @@
+enhance_product:
+    path: /enhance-product
+    controller: Sintra\ProductEnhancerBundle\Controller\ProductEnhancerController::enhanceProduct
+    methods: [POST]
+
